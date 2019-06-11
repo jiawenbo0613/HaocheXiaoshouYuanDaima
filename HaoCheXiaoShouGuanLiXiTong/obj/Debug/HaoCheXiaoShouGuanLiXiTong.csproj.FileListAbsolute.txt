@@ -1,0 +1,9 @@
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\bin\Debug\HaoCheXiaoShouGuanLiXiTong.exe.config
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\obj\Debug\HaoCheXiaoShouGuanLiXiTong.csprojResolveAssemblyReference.cache
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\obj\Debug\HaoCheXiaoShouGuanLiXiTong.Properties.Resources.resources
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\obj\Debug\HaoCheXiaoShouGuanLiXiTong.贾文博_销售管理_员工管理.Denglu.resources
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\obj\Debug\HaoCheXiaoShouGuanLiXiTong.csproj.GenerateResource.Cache
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\bin\Debug\HaoCheXiaoShouGuanLiXiTong.exe
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\bin\Debug\HaoCheXiaoShouGuanLiXiTong.pdb
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\obj\Debug\HaoCheXiaoShouGuanLiXiTong.exe
+E:\项目\豪车销售系统\豪车销售系统源代码\豪车销售管理系统\HaoCheXiaoShouGuanLiXiTong\obj\Debug\HaoCheXiaoShouGuanLiXiTong.pdb
